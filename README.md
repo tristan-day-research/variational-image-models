@@ -1,2 +1,5 @@
-# variational-image-models
-A repository that will hold my experiments with various variational models
+# Variational Generative Image Models
+
+## Implementations
+1. Variational Autoencoders
+2. Vector Quantised Autoencoders
